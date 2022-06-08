@@ -1,0 +1,33 @@
+id: I29DB51B3
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-21T17:11:54+00:00'
+last_modified: '2022-06-08T05:38:05.801651+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W23725
+  title: ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    74D7:
+      image_group_id: I2497
+      title: ''
+      total_pages: 484
+      order: 1
+      base_file: 74D7.txt
+    23EE:
+      image_group_id: I2498
+      title: ''
+      total_pages: 470
+      order: 2
+      base_file: 23EE.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
